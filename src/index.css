@@ -1,3 +1,6 @@
 :root {
+  display:flex;
+  justify-content: center;
   background-color: #242424;
+  background-image: url(https://images6.alphacoders.com/512/512054.jpg);
 }
