@@ -1,11 +1,12 @@
-import { useState } from 'react'
-import './App.css'
+import './App.scss'
+import Cards from './components/Cards'
 
 function App() {
   
   return (
     <>
       <div>
+        <Cards/>
       </div>
     </>
   )
